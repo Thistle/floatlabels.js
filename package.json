@@ -1,0 +1,19 @@
+{
+  "name": "floatlabels",
+  "version": "1.0.0",
+  "description": "Follows the famous Float Label Pattern. Built on jQuery.",
+  "main": "floatlabels.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/probots-io/floatlabels.js.git"
+  },
+  "author": "Marcus Pohorely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/probots-io/floatlabels.js/issues"
+  },
+  "homepage": "http://probots-io.github.io/floatlabels.js/"
+}
